@@ -1,0 +1,5 @@
+"All we are doing here is setting the baud rate to 1 Mbps. This should give us a sample rate of about 400Hz - 500Hz (after conversion to real-world units). " Ze jak? 1Mbps da nam 500Hz sample rate'u? 
+
+Jak wyglada zwiazek predkosci I2C do realnego sample rate? 
+
+modul adxl345 ma max 3200Hz Output data rate
